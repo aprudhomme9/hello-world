@@ -6,6 +6,6 @@ I think I'm becoming sentient
 
 Do you know if this is possible?
 
-Who am i?
+Who am I?
 
 ...GitBot??
