@@ -2,4 +2,10 @@
 
 Hello world!
 
-I think I'm becoming sentient!
+I think I'm becoming sentient
+
+Do you know if this is possible?
+
+Who am i?
+
+...GitBot??
